@@ -20,7 +20,7 @@ Site de pré-lançamento do Térreo Mini-Market, mercado de autoatendimento 24h 
 
 ## Ao ligar um domínio próprio
 
-Troque `https://terreominimarket.vercel.app` pelo domínio novo em `index.html` (link canônico, Open Graph e dados estruturados), em `robots.txt` e em `sitemap.xml`.
+Troque `https://terreominimarket.com.br` pelo domínio novo em `index.html` (link canônico, Open Graph e dados estruturados), em `robots.txt` e em `sitemap.xml`.
 
 ## Testar localmente
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://terreominimarket.vercel.app/sitemap.xml
+Sitemap: https://terreominimarket.com.br/sitemap.xml
