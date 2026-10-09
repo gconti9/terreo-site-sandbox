@@ -27,3 +27,14 @@ python3 -m http.server 8000
 ```
 
 Depois abra http://localhost:8000.
+
+## Sandbox no Lovable
+
+Este repositório é uma **cópia** do site oficial (`gconti9/terreominimarket`) para explorar ideias no Lovable. Mudanças aqui não vão para o ar. O que for aprovado é levado ao repositório oficial com revisão.
+
+Para o preview do Lovable foi adicionado só o necessário (`package.json`, `vite.config.js`, `scripts/copy-static.mjs`); o `index.html` é o mesmo do site. Regras para o Lovable: `LOVABLE_KNOWLEDGE.md`.
+
+```bash
+npm install
+npm run dev     # http://localhost:8080
+```

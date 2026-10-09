@@ -1,0 +1,16 @@
+{
+  "name": "terreo-site-sandbox",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Cópia do site terreominimarket.com.br para explorar no Lovable. O site oficial fica em gconti9/terreominimarket.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/copy-static.mjs",
+    "build:dev": "vite build --mode development && node scripts/copy-static.mjs",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
